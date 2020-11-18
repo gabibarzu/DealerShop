@@ -11,7 +11,7 @@ This project was used to try new frameworks
 - ASP.NET MVC 5
 
 ### Platforms
-.NET Core 3.1
+.NET 5
 
 ### Frontend framework
 - [Bootstrap4](https://getbootstrap.com/)
